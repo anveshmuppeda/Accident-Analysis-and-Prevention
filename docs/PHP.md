@@ -13,3 +13,9 @@ insert into login values("manasa", "manasa123");
 insert into login values("saran", "saran123");  
 
 ```
+
+For delete 
+
+```
+DROP DATABASE <name>;
+```
