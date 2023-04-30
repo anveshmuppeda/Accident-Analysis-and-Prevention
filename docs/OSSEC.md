@@ -58,3 +58,5 @@ reference: https://github.com/ossec/ossec-hids/issues/2039
 ```
 apt install -y libsystemd-dev  
 ```
+
+Follow the above steps to proceed with the OSSEC
